@@ -8,18 +8,6 @@
 
  Bokeh will render the graphics using HTML and JavaScript. This way your job can be share to the business in an HTML way.
 
-<img alt="Image Lili" align="right" height=200, with=100, src="images/Lili_new.JPG">
-
-  																																						_**By Liliana Torres**_
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 
 
 This is the Notebook concepts and Example
@@ -40,4 +28,24 @@ This is the Notebook for the Exercise Solutions
  *  [**Reference**](https://docs.bokeh.org/en/2.0.2/)
 
 
+
+​                                                                                                                                                    _**By Liliana Torres**_
+
+<img alt="Image Lili" align="right" height=200, with=100, src="images/Lili_new.JPG">
+
+  																																						
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;
+
+
+
+&nbsp;
+
+
+
+&nbsp;
 
