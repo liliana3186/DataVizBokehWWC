@@ -29,7 +29,7 @@ This is the Notebook for the Exercise Solutions
 
 
 
-<P align="right">_**By Liliana Torres**_</p>
+<P align="right"> <strong>By Liliana Torres</strong></p>
 
 <img alt="Image Lili" align="right" height=200, with=100, src="images/Lili_new.JPG">
 
@@ -37,15 +37,4 @@ This is the Notebook for the Exercise Solutions
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 &nbsp;
-
-
-
-&nbsp;
-
-
-
-&nbsp;
-
