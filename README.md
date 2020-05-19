@@ -8,7 +8,7 @@
 
  Bokeh will render the graphics using HTML and JavaScript. This way your job can be share to the business in an HTML way.
 
-<img alt="Image Lili" align="right" height=200, with=100 src="images/Lili_new.jpg">
+<img alt="Image Lili" align="right" height=200, with=100, src="images/Lili_new.JPG">
 
   																																								_**By Liliana Torres**_
 
