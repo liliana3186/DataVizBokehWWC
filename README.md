@@ -1,6 +1,6 @@
 #             Data Visualization with Bokeh
 
-<img alt="Women Who Code Python Technical Track." align="center" src="images/Bokeh_Intro.png">
+<img alt="Women Who Code WWC Talk." align="center" src="images/Bokeh_Intro.png">
 
 &nbsp;
 
@@ -8,11 +8,23 @@
 
  Bokeh will render the graphics using HTML and JavaScript. This way your job can be share to the business in an HTML way.
 
-  																																								_By Liliana Torres_
+<img alt="Women Who Code WWC Talk." align="right" height=200, with=100 src="images/lili_new.jpg">
 
-&nbsp;
+  																																								_**By Liliana Torres**_
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/BookingAnalysisPandas/blob/master/DataAnalysisPandas.ipynb)
+
+
+This is the Notebook concepts and Example
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/DataVizBokehWWC/blob/master/notebook/.ipynb_checkpoints/DataVizBokeh-checkpoint.ipynb)
+
+
+
+This is the Notebook for the Exercise Solutions
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/DataVizBokehWWC/blob/master/notebook/.ipynb_checkpoints/DataVizBokeh-checkpoint.ipynb)
+
+
 
 
 ### The best resource for Bokeh is 
