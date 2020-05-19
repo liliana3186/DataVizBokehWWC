@@ -8,7 +8,7 @@
 
  Bokeh will render the graphics using HTML and JavaScript. This way your job can be share to the business in an HTML way.
 
-<img alt="Women Who Code WWC Talk." align="right" height=200, with=100 src="images/lili_new.jpg">
+<img alt="Image Lili" align="right" height=200, with=100 src="images/Lili_new.jpg">
 
   																																								_**By Liliana Torres**_
 
@@ -22,7 +22,7 @@ This is the Notebook concepts and Example
 
 This is the Notebook for the Exercise Solutions
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/DataVizBokehWWC/blob/master/notebook/.ipynb_checkpoints/DataVizBokeh-checkpoint.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/DataVizBokehWWC/blob/master/notebook/.ipynb_checkpoints/Exercises-Solution-checkpoint.ipynb)
 
 
 
