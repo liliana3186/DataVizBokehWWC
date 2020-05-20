@@ -12,13 +12,13 @@
 
 This is the Notebook concepts and Example
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/DataVizBokehWWC/blob/master/notebook/.ipynb_checkpoints/DataVizBokeh-checkpoint.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kt7RuNAeCExhCOJXJ-U5wqn2QINwOuXM?usp=sharing)
 
 
 
 This is the Notebook for the Exercise Solutions
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liliana3186/DataVizBokehWWC/blob/master/notebook/.ipynb_checkpoints/Exercises-Solution-checkpoint.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vigjFYvAEdGtqLU3km0HawL_qTM2Ka7m?usp=sharing)
 
 
 
